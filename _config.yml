@@ -1,0 +1,28 @@
+name: theHeavyEmpty
+favicon: null
+layout_spectrum: 0.8067146083340049
+typography_spectrum: 0.9505355602595955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2779980665072799
+  lightness: 0.8779823831282556
+  saturation: 0.3231580429710448
+  rhythmicContrast: 0.17635892843827605
+purpose: []
